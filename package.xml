@@ -4,7 +4,7 @@
   <name>mypkg</name>
   <version>0.0.0</version>
   <description>ロボットシステム学練習用</description>
-  <maintainer email="s23c1062mq@s.chibakoudai.jp">Yuta Sakusaabe</maintainer>
+  <maintainer email="s23c1062mq@s.chibakoudai.jp">Yuta Sakusabe</maintainer>
   <license>BSD-3-Clause</license>
   <exec_depend>rclpy</exec_depend>
   <exec_depend>std_msgs</exec_depend>
